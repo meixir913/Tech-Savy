@@ -10,3 +10,4 @@ grade="A"
 #Expression--NO "="
 #Statement--WITH "=" e.g. grade="A"
 print(name,"got a grade", grade)
+#String: "xxx,xxx,xxx"
